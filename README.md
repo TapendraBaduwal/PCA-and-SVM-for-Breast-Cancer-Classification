@@ -24,8 +24,3 @@ The breast cancer dataset used in this project contains features derived from di
 ## Conclusion
 
 The PCA effectively reduced the dimensionality of the breast cancer dataset while preserving critical information, resulting in a more efficient and accurate SVM classification model. The high accuracy achieved demonstrates the model's effectiveness in distinguishing between benign and malignant tumors.
-
-## References
-
-- UCI Machine Learning Repository: Breast Cancer Wisconsin (Diagnostic) Data Set
-- Principal Component Analysis - Visual Studio Magazine

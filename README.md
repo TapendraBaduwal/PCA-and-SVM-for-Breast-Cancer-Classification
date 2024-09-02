@@ -1,4 +1,4 @@
-# PCA-and-SVM-for-Breast-Cancer-Classification
+### PCA-SVM fo Breast Cancer Classification
 
 This project focuses on the application of Principal Component Analysis (PCA) for dimensionality reduction and Support Vector Machine (SVM) for classifying breast cancer tumors.
 
